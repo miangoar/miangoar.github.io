@@ -40,6 +40,20 @@ Este curso se compone de +800 diapositivas, cada una con las fuentes de las imá
 * [Zenodo]()
 * [Google Drive]()
 
+| Tema | Diapositivas | YouTube |
+|-----|------------------|-----------------|
+| Conceptos básicos de computación | [Drive](https://drive.google.com/FILE_ID_1), [Zenodo](https://zenodo.org/) | [Video](https://youtu.be/VIDEO_ID_1) |
+| Machine learning | [Drive](https://drive.google.com/FILE_ID_2), [Zenodo](https://zenodo.org/) | [Video](https://youtu.be/VIDEO_ID_2) |
+| Deep learning | [Drive](https://drive.google.com/FILE_ID_3), [Zenodo](https://zenodo.org/) | [Video](https://youtu.be/VIDEO_ID_3) |
+| Transformers y modelos de lenguaje | [Drive](https://drive.google.com/FILE_ID_4), [Zenodo](https://zenodo.org/) | [Video](https://youtu.be/VIDEO_ID_4) |
+| Estructura de proteínas | [Drive](https://drive.google.com/FILE_ID_5), [Zenodo](https://zenodo.org/) | [Video](https://youtu.be/VIDEO_ID_5) |
+| Función de proteínas | [Drive](https://drive.google.com/FILE_ID_6), [Zenodo](https://zenodo.org/) | [Video](https://youtu.be/VIDEO_ID_6) |
+| Evolución de proteínas | [Drive](https://drive.google.com/FILE_ID_7), [Zenodo](https://zenodo.org/) | [Video](https://youtu.be/VIDEO_ID_7) |
+| AlphaFold | [Drive](https://drive.google.com/FILE_ID_8), [Zenodo](https://zenodo.org/) | [Video](https://youtu.be/VIDEO_ID_8) |
+| Diseño de proteínas basado en IA | [Drive](https://drive.google.com/FILE_ID_9), [Zenodo](https://zenodo.org/) | [Video](https://youtu.be/VIDEO_ID_9) |
+| Datos y sesgos | [Drive](https://drive.google.com/FILE_ID_10), [Zenodo](https://zenodo.org/) | [Video](https://youtu.be/VIDEO_ID_10) |
+
+
 Con esto pretendo que tengas acceso a más información para profundizar en los temas. Si eres docente y has adoptado este material para tus clases, por favor, házmelo saber. Me encantaría conocer cómo mejoraste el curso y saber que más personas han aprendido sobre ciencia de proteínas. Sin embargo, si identificas que alguien ha plagiado total o parcialmente este curso Y ADEMÁS cobra dinero por acceder a él, te agradecería que me lo notificaras.
 
 
