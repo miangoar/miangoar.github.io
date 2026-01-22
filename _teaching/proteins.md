@@ -17,7 +17,7 @@ Hice este <a href="https://github.com/miangoar/AI-driven-protein-design">curso g
 - [Acceso a las diapositivas](#acceso-a-las-diapositivas)
 - [Organización de clases ](#organización-de-clases)
 - [Como apoyar este proyecto ](#como-apoyar-este-proyecto)
-- [Sobre mi](#Sobre mi)
+- [Sobre mi](#sobre-mi)
 
 # Descripcion general
 
