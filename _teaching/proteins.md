@@ -30,7 +30,7 @@ Quiero que más personas aprendan a diseñar proteínas usando Inteligencia Arti
 <p>Para atender estos problemas, diseñé este curso gratuito de 37 horas, distribuido en 10 clases, para introducirte al diseño de proteínas basado en IA. El curso cuenta con dos recursos principales:</p>
 <ol>
   <li><a href="https://www.youtube.com/@miangoar_bio">Las 10 clases en YouTube</a></li>
-  <li><a href="https://github.com/miangoar/AI-driven-protein-desig">Un repositorio en GitHub</a> con los siguientes recursos:
+  <li><a href="https://github.com/miangoar/AI-driven-protein-design">Un repositorio en GitHub</a> con los siguientes recursos:
     <ol type="a">
       <li><a href="https://github.com/miangoar/AI-driven-protein-design/tree/main/tools">Herramientas</a>: librerías organizadas en 25 categorías</li>
       <li><a href="https://github.com/miangoar/AI-driven-protein-design/tree/main/learning_resources">Recursos de aprendizaje</a>: cursos y publicaciones útiles organizadas en ocho categorías</li>
