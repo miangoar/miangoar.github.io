@@ -338,7 +338,9 @@ Este curso se compone de +800 diapositivas con las fuentes de las imágenes y ci
 | Diseño de proteínas basado en IA | [Drive](https://drive.google.com/FILE_ID_9), [Zenodo](https://zenodo.org/) | [Video](https://youtu.be/VIDEO_ID_9) |
 | Datos y sesgos | [Drive](https://drive.google.com/FILE_ID_10), [Zenodo](https://zenodo.org/) | [Video](https://youtu.be/VIDEO_ID_10) |
 
-Al liberar las diapositivas pretendo que tengas acceso a información para profundizar. Si eres docente y has adoptado este material para tus clases, por favor, házmelo saber. Me encantaría conocer cómo mejoraste el curso y saber que más personas han aprendido sobre ciencia de proteínas. Sin embargo, si identificas que alguien ha plagiado total o parcialmente este curso Y ADEMÁS cobra dinero por acceder a él, te agradecería que me lo notificaras, pues su elaboración me llevó mucho tiempo y trabajo, y el plagio es una seria falta de profesionalismo y ética.
+Al liberar las diapositivas pretendo que tengas acceso a información para profundizar. Si eres docente y has adoptado este material para tus clases, por favor, házmelo saber. Me encantaría conocer cómo mejoraste el curso y saber que más personas han aprendido sobre ciencia de proteínas. 
+
+Sin embargo, si identificas que alguien ha plagiado total o parcialmente este curso Y ADEMÁS cobra dinero por acceder a él, te agradecería que me lo notificaras, pues su elaboración me llevó mucho tiempo y trabajo, y el plagio es una seria falta de profesionalismo y ética.
 
 # Como apoyar este proyecto 
 
@@ -346,14 +348,14 @@ Si este curso te fue útil y deseas retribuirlo económicamente, puedes hacer un
 
 [![Donar](/images/teaching/paypal.jpg)](https://www.paypal.com/donate/?hosted_button_id=AG42EZTZW9AJN)
 
-Si no cuentas con gran libertad económica, pero quieres expresar tu gratitud, puedes enviarme tus comentarios a mi correo:
-* gamamiguelangel@gmail.com
+Si no cuentas con gran libertad económica, pero quieres expresar tu gratitud, puedes enviarme tus comentarios a mi correo: gamamiguelangel@gmail.com
 
-Finalmente, te agradecería que compartieras este curso con colegas interesados en aprender sobre diseño de proteínas basado en inteligencia artificial, o bien que difundieras (dar repost) el anuncio del curso en distintas redes sociales:
+Finalmente, te agradecería que compartieras este curso con colegas interesados, o bien, que difundieras (dar repost) el anuncio oficial de este curso en distintas redes sociales (pendiente a publicar una vez se hayan publicado todos los videos):
 - [(X)Twitter]()
 - [Instagram]()
 - [BlueSky]() 
-- [linkedin]() 
+- [linkedin]()
+
 
 # Sobre mi
 
