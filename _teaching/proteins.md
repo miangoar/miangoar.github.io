@@ -19,7 +19,7 @@ Hice este <a href="https://github.com/miangoar/AI-driven-protein-design">curso g
 - [Como apoyar este proyecto ](#como-apoyar-este-proyecto)
 - [Sobre mi](#sobre-mi)
 
-Nota: una [versión en inglés](https://miangoaren.github.io/teaching/proteins) de esta página está disponible en este enlace
+Nota: aqui hay una [versión en inglés](https://miangoaren.github.io/teaching/proteins) de esta página 
 
 # Descripcion general
 Quiero que más personas aprendan a diseñar proteínas usando Inteligencia Artificial (IA). Sin embargo, he encontrado dos problemas:
