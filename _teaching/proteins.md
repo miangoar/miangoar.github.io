@@ -44,7 +44,7 @@ Quiero que más personas aprendan a diseñar proteínas usando Inteligencia Arti
 
 ![webinar](/images/teaching/lectures.png)
 
-Las clases teóricas están organizadas de la 01 a la 10 para facilitar la comprensión de los temas. Por ejemplo, para hablar sobre AlphaFold es necesario conocer conceptos de biología estructural y deep learning. A continuación se describen brevemente las clases y sus temas:
+Las clases están organizadas de la 01 a la 10 para facilitar la comprensión de los temas. Por ejemplo, para revisar AlphaFold se requieren conceptos de biología estructural y deep learning que son explorados a detalle en sus respectivas clases. A continuación se describen brevemente las clases y sus temas:
 
 <ol>
   <li><strong><a href="https://www.youtube.com/watch?v=TU_LINK_AQUI">Conceptos básicos de computación</a></strong>: cómo funcionan las CPU y GPU, así como el software esencial para el análisis de datos.
@@ -85,20 +85,20 @@ Las clases teóricas están organizadas de la 01 a la 10 para facilitar la compr
     </ol>
   </li>
 
-  <li><strong><a href="https://www.youtube.com/watch?v=TU_LINK_AQUI">Deep learning</a></strong>: cómo funcionan las redes neuronales, los diferentes tipos y el software utilizado para trabajar con ellas.
+  <li><strong><a href="https://www.youtube.com/watch?v=TU_LINK_AQUI">Deep learning</a></strong>: cómo funcionan las redes neuronales, los diferentes tipos de arquitecturas y el software utilizado para trabajar con ellas.
     <ol type="a">
       <li>Redes neuronales
         <ul>
           <li>Neuronas</li>
           <li>Aprendizaje profundo</li>
           <li>Funciones de pérdida</li>
-          <li>Retropropagación (Backpropagation)</li>
+          <li>Retropropagación</li>
           <li>Optimizadores</li>
           <li>Arquitecturas</li>
           <li>Explicabilidad (por qué) e Interpretabilidad (cómo)</li>
         </ul>
       </li>
-      <li>Frameworks de aprendizaje profundo</li>
+      <li>Librerias de aprendizaje profundo</li>
     </ol>
   </li>
 
@@ -109,21 +109,21 @@ Las clases teóricas están organizadas de la 01 a la 10 para facilitar la compr
         <ul>
           <li>Arquitectura original</li>
           <li>Arquitecturas BERT y GPT</li>
-          <li>Leyes de escala (Scaling laws)</li>
+          <li>Leyes de escala</li>
           <li>Pre-entrenamiento y post-entrenamiento</li>
           <li>Aprendizaje por refuerzo</li>
         </ul>
       </li>
-      <li>Rendimiento y generalización
+      <li>Desempeño y generalización
         <ul>
           <li>Saturación de benchmarks</li>
-          <li>Hype (expectativas excesivas)</li>
+          <li>Expectativas excesivas</li>
         </ul>
       </li>
       <li>Cómo trabajar con LLMs
         <ul>
-          <li>Técnicas de optimización (para quienes no tienen GPUs potentes)</li>
-          <li>Hugging Face y Software 2.0</li>
+          <li>Técnicas de optimización</li>
+          <li>HuggingFace y Software 2.0</li>
         </ul>
       </li>
     </ol>
@@ -135,16 +135,16 @@ Las clases teóricas están organizadas de la 01 a la 10 para facilitar la compr
         <ul>
           <li>Aminoácidos</li>
           <li>Estructura secundaria y terciaria</li>
-          <li>Flujo de trabajo experimental para la determinación de estructuras</li>
+          <li>Experimentos para la determinación de estructuras</li>
           <li>Visualizadores de estructuras</li>
         </ul>
       </li>
       <li>Clasificaciones
         <ul>
-          <li>Plegamientos (folds) y dominios</li>
+          <li>Plegamientos y dominios</li>
           <li>Primeros esquemas de clasificación</li>
           <li>Métricas de similitud</li>
-          <li>Divergencia secuencial y estructural</li>
+          <li>Divergencia de secuencias y estructuras</li>
           <li>Esquemas de clasificación actuales</li>
         </ul>
       </li>
@@ -152,7 +152,7 @@ Las clases teóricas están organizadas de la 01 a la 10 para facilitar la compr
         <ul>
           <li>Distribución desigual</li>
           <li>Relaciones homólogas complejas</li>
-          <li>Cambio de plegamiento (Switch folds)</li>
+          <li>Cambio de plegamiento</li>
         </ul>
       </li>
     </ol>
@@ -197,17 +197,17 @@ Las clases teóricas están organizadas de la 01 a la 10 para facilitar la compr
         <ul>
           <li>Hipótesis del mundo de ARN y evolución del ribosoma</li>
           <li>Proteínas ancestrales</li>
-          <li>Diversificación proteica</li>
+          <li>Diversificación</li>
         </ul>
       </li>
-      <li>El espacio de secuencias
+      <li>El espacio de secuencia
         <ul>
           <li>Mutaciones</li>
           <li>Robustez, evolubilidad y promiscuidad</li>
           <li>Evolución de la función proteica</li>
         </ul>
       </li>
-      <li>Epistasia: Cómo las interacciones moldean la evolución
+      <li>Epistasis: Cómo las interacciones moldean la evolución
         <ul>
           <li>Interacciones residuo-residuo y proteína-proteína</li>
           <li>Aleatoriedad de las mutaciones</li>
@@ -242,19 +242,19 @@ Las clases teóricas están organizadas de la 01 a la 10 para facilitar la compr
     </ol>
   </li>
 
-  <li><strong><a href="https://www.youtube.com/watch?v=TU_LINK_AQUI">Diseño de proteínas impulsado por IA</a></strong>: motivaciones y métodos modernos de IA.
+  <li><strong><a href="https://www.youtube.com/watch?v=TU_LINK_AQUI">Diseño de proteínas basado en IA</a></strong>: paradigmas del diseño de proteínas e implementaciones modernas basadas en IA.
     <ol type="a">
       <li>Diseño de proteínas
         <ul>
           <li>La IA en el mercado biotecnológico</li>
-          <li>Avances desde métodos clásicos a métodos impulsados por IA</li>
+          <li>Avances desde métodos clásicos a métodos basados en IA</li>
           <li>Consideraciones básicas para aumentar el éxito de un diseño</li>
         </ul>
       </li>
       <li>Diseño racional
         <ul>
           <li>Enfoques experimentales y bioinformáticos clásicos</li>
-          <li>Modelado macromolecular y recombineering</li>
+          <li>Modelado macromolecular y recombinación</li>
         </ul>
       </li>
       <li>Diseño evolutivo
@@ -262,7 +262,7 @@ Las clases teóricas están organizadas de la 01 a la 10 para facilitar la compr
           <li>Evolución dirigida, reconstrucción de secuencias ancestrales y diseño por consenso</li>
         </ul>
       </li>
-      <li>Aprendizaje de representaciones (Representation learning)
+      <li>Aprendizaje de representaciones
         <ul>
           <li>Representaciones (macro)moleculares</li>
           <li>Modelos de lenguaje de proteínas y ESMFold</li>
@@ -274,7 +274,7 @@ Las clases teóricas están organizadas de la 01 a la 10 para facilitar la compr
         <ul>
           <li>Integración de datos multimodales</li>
           <li>Generación de secuencias</li>
-          <li>Generalización y predicción de aptitud (fitness) con modelos de lenguaje</li>
+          <li>Generalización y predicción de aptitud con modelos de lenguaje</li>
           <li>Plegamiento inverso y ProteinMPNN</li>
           <li>Generación de estructuras con modelos de difusión</li>
           <li>Selección de modelos y puntuación computacional de candidatos</li>
@@ -285,9 +285,9 @@ Las clases teóricas están organizadas de la 01 a la 10 para facilitar la compr
     </ol>
   </li>
 
-  <li><strong><a href="https://www.youtube.com/watch?v=TU_LINK_AQUI">Datos y sesgos</a></strong>: bases de datos relevantes y procesamiento de datos.
+  <li><strong><a href="https://www.youtube.com/watch?v=TU_LINK_AQUI">Datos y sesgos</a></strong>: Bases de datos, técnicas de procesamiento, sesgos inherentes a los datos y generalización aplicada a la biología
     <ol type="a">
-      <li>Big Data es Ómica
+      <li>Los datos masivos son ómicos.
         <ul>
           <li>Propiedades de un buen conjunto de datos</li>
         </ul>
@@ -304,12 +304,12 @@ Las clases teóricas están organizadas de la 01 a la 10 para facilitar la compr
         <ul>
           <li>Limpieza de datos en biología</li>
           <li>Herramientas básicas para manipulación de datos biológicos</li>
-          <li>División de datos (Data splitting)</li>
+          <li>División de datos</li>
         </ul>
       </li>
       <li>Generalización en biología (de proteínas)
         <ul>
-          <li>Fuga de datos (Data leakage) y otros problemas inherentes</li>
+          <li>Fuga de datos y otros problemas inherentes</li>
         </ul>
       </li>
       <li>Sesgos en los datos</li>
