@@ -1,10 +1,10 @@
 ---
-title: "Una guía para el diseño de proteínas basada en IA"
+title: "Una guía para el diseño de proteínas basado en IA"
 collection: teaching
 type: "Curso"
 permalink: /teaching/proteins
 venue: "Youtube"
-date: 2025-10-10
+date: 2026-01-20
 location: "México"
 ---
 
@@ -13,15 +13,15 @@ Hice este <a href="https://github.com/miangoar/AI-driven-protein-design">curso g
 ![webinar](/images/teaching/roadmap.jpg)
 
 # Contenido
-- [Descripcion general](#descripcion-general)
+- [Descripción general](#descripción-general)
 - [Organización de clases ](#organización-de-clases)
 - [Acceso a las diapositivas](#acceso-a-las-diapositivas)
-- [Como apoyar este proyecto ](#como-apoyar-este-proyecto)
-- [Sobre mi](#sobre-mi)
+- [Cómo apoyar este proyecto ](#como-apoyar-este-proyecto)
+- [Sobre mí](#sobre-mí)
 
-Nota: aqui hay una [versión en inglés](https://miangoaren.github.io/teaching/proteins) de esta página 
+Nota: aquí hay una [versión en inglés](https://miangoaren.github.io/teaching/proteins) de esta página 
 
-# Descripcion general
+# Descripción general
 Quiero que más personas aprendan a diseñar proteínas usando Inteligencia Artificial (IA). Sin embargo, he encontrado tres problemas:
 1. hay mucha información y no es claro por dónde empezar a aprender ni cuáles son los temas necesarios que abarcar
 2. no hay cursos integrales en línea y en Español sobre el tema
@@ -34,7 +34,7 @@ Quiero que más personas aprendan a diseñar proteínas usando Inteligencia Arti
     <ol type="a">
       <li><a href="https://github.com/miangoar/AI-driven-protein-design/tree/main/tools">Herramientas</a>: librerías organizadas en 25 categorías</li>
       <li><a href="https://github.com/miangoar/AI-driven-protein-design/tree/main/learning_resources">Recursos de aprendizaje</a>: cursos y publicaciones útiles organizadas en ocho categorías</li>
-      <li><a href="https://github.com/miangoar/AI-driven-protein-design/tree/main/databases">Bases de datos</a>: recursos para descargar datos genómicos y de proteínas organizados en 12 categorías<</li>
+      <li><a href="https://github.com/miangoar/AI-driven-protein-design/tree/main/databases">Bases de datos</a>: recursos para descargar datos genómicos y de proteínas organizados en 12 categorías</li>
       <li><a href="https://github.com/miangoar/AI-driven-protein-design/tree/main/video">Clases</a>: enlaces a cada una de las clases y para descargar sus diapositivas</li>
       <li><a href="https://github.com/miangoar/AI-driven-protein-design/tree/main/tutorials">Tutoriales</a>: tutoriales para aprender a procesar y analizar datos relacionados con la ciencia de proteínas</li>
       <li><a href="https://github.com/miangoar/AI-driven-protein-design/tree/main/selected_papers">Artículos seleccionados</a>: artículos científicos recomendados</li>
@@ -342,7 +342,7 @@ Al liberar las diapositivas pretendo que tengas acceso a información para profu
 
 Sin embargo, si identificas que alguien ha plagiado total o parcialmente este curso Y ADEMÁS cobra dinero por acceder a él, te agradecería que me lo notificaras, pues su elaboración me llevó mucho tiempo y trabajo, y el plagio es una seria falta de profesionalismo y ética.
 
-# Como apoyar este proyecto 
+# Cómo apoyar este proyecto 
 
 Si este curso te fue útil y deseas retribuirlo económicamente, puedes hacer una donación vía PayPal. Las donaciones pueden ser de cualquier monto o de 12, 30 o 45 dólares estadounidenses (sugerencias basadas en la economía de los estudiantes de Latinoamérica). Haz clic en la siguiente imagen si quieres donar.
 
@@ -354,11 +354,11 @@ Finalmente, te agradecería que compartieras este curso con colegas interesados,
 - [(X)Twitter]()
 - [Instagram]()
 - [BlueSky]() 
-- [linkedin]()
+- [LinkedIn]()
 
 
-# Sobre mi
+# Sobre mí
 
 Soy Miguel Angel González Arias. Soy un biólogo mexicano y me gustan las proteínas, los microbios y la computación. Para más detalles sobre mi, redes sociales y otros medios de contacto, consulta la siguiente pagina:
-* [Sobre mi](https://miangoar.github.io/talks/)
+* [Sobre mí](https://miangoar.github.io/talks/)
 
