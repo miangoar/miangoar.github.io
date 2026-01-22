@@ -19,6 +19,8 @@ Hice este <a href="https://github.com/miangoar/AI-driven-protein-design">curso g
 - [Como apoyar este proyecto ](#como-apoyar-este-proyecto)
 - [Sobre mi](#sobre-mi)
 
+Nota: una [versión en inglés](https://miangoaren.github.io/teaching/proteins) de esta página está disponible en este enlace
+
 # Descripcion general
 Quiero que más personas aprendan a diseñar proteínas usando Inteligencia Artificial (IA). Sin embargo, he encontrado dos problemas:
 1. no hay cursos integrales en línea sobre el tema
@@ -320,7 +322,7 @@ Las clases están organizadas de la 01 a la 10 para facilitar la comprensión de
 
 # Acceso a las diapositivas
 
-Este curso se compone de +800 diapositivas, cada una con las fuentes de las imágenes y citas, así como recursos recomendados en la sección de notas. Las diapositivas fueron hechas en PowerPoint, por lo que recomiendo revisarlas en este software. Puedes descargar las diapositivas en las siguientes dos opciones:
+Este curso se compone de +800 diapositivas con las fuentes de las imágenes y citas, así como recursos recomendados en la sección de notas. Recomiendo revisar las diapositivas con PowerPoint. Puedes descargar las diapositivas en las siguientes plataformas:
 
 * [Zenodo]()
 * [Google Drive]()
@@ -338,22 +340,25 @@ Este curso se compone de +800 diapositivas, cada una con las fuentes de las imá
 | Diseño de proteínas basado en IA | [Drive](https://drive.google.com/FILE_ID_9), [Zenodo](https://zenodo.org/) | [Video](https://youtu.be/VIDEO_ID_9) |
 | Datos y sesgos | [Drive](https://drive.google.com/FILE_ID_10), [Zenodo](https://zenodo.org/) | [Video](https://youtu.be/VIDEO_ID_10) |
 
-
-Con esto pretendo que tengas acceso a más información para profundizar en los temas. Si eres docente y has adoptado este material para tus clases, por favor, házmelo saber. Me encantaría conocer cómo mejoraste el curso y saber que más personas han aprendido sobre ciencia de proteínas. Sin embargo, si identificas que alguien ha plagiado total o parcialmente este curso Y ADEMÁS cobra dinero por acceder a él, te agradecería que me lo notificaras.
+Al liberar las diapositivas pretendo que tengas acceso a información para profundizar. Si eres docente y has adoptado este material para tus clases, por favor, házmelo saber. Me encantaría conocer cómo mejoraste el curso y saber que más personas han aprendido sobre ciencia de proteínas. Sin embargo, si identificas que alguien ha plagiado total o parcialmente este curso Y ADEMÁS cobra dinero por acceder a él, te agradecería que me lo notificaras, pues su elaboración me llevó mucho tiempo y trabajo, y el plagio es una seria falta de profesionalismo y ética.
 
 # Como apoyar este proyecto 
 
-Hacer este curso requirió mucho tiempo y trabajo. Si te fue útil y deseas apoyarme económicamente, puedes hacer una donación vía PayPal. Las donaciones pueden ser de cualquier monto o de 12, 30 o 45 dólares estadounidenses (sugerencias basadas en la economía de los estudiantes y el costo de este tipo de cursos). Haz clic en la siguiente imagen si quieres donar.
+Si este curso te fue útil y deseas retribuirlo económicamente, puedes hacer una donación vía PayPal. Las donaciones pueden ser de cualquier monto o de 12, 30 o 45 dólares estadounidenses (sugerencias basadas en la economía de los estudiantes de Latinoamérica). Haz clic en la siguiente imagen si quieres donar.
 
 [![Donar](/images/teaching/paypal.jpg)](https://www.paypal.com/donate/?hosted_button_id=AG42EZTZW9AJN)
 
 Si no cuentas con gran libertad económica, pero quieres expresar tu gratitud, puedes enviarme tus comentarios a mi correo:
 * gamamiguelangel@gmail.com
 
-Finalmente, te agradecería que compartieras este curso con tus colegas interesados en aprender sobre diseño de proteínas basado en IA.
+Finalmente, te agradecería que compartieras este curso con colegas interesados en aprender sobre diseño de proteínas basado en inteligencia artificial, o bien que difundieras (dar repost) el anuncio del curso en distintas redes sociales:
+- [(X)Twitter]()
+- [Instagram]()
+- [BlueSky]() 
+- [linkedin]() 
 
 # Sobre mi
 
-Soy Miguel Ángel Gonzalez Arias. Soy un biólogo mexicano y me gustan las proteínas, los microbios y la computación. Para más detalles sobre mi, redes sociales y otros medios de contacto, consulta la siguiente pagina:
+Soy Miguel Angel González Arias. Soy un biólogo mexicano y me gustan las proteínas, los microbios y la computación. Para más detalles sobre mi, redes sociales y otros medios de contacto, consulta la siguiente pagina:
 * [Sobre mi](https://miangoar.github.io/talks/)
 
