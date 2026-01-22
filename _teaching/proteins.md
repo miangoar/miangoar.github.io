@@ -316,7 +316,7 @@ Las clases están organizadas de la 01 a la 10 para facilitar la comprensión de
         </ul>
       </li>
       <li>Sesgos en los datos</li>
-      <li>Una hoja de ruta para el diseño de proteínas impulsado por IA</li>
+      <li>Una guía para el diseño de proteínas basado en IA</li>
     </ol>
   </li>
 </ol>
