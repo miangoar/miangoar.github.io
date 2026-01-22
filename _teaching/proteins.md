@@ -29,18 +29,15 @@ Quiero que más personas aprendan a diseñar proteínas usando Inteligencia Arti
   <li><a href="https://www.youtube.com/@miangoar_bio">Las 10 clases en YouTube</a></li>
   <li><a href="https://github.com/miangoar/AI-driven-protein-desig">Un repositorio en GitHub</a> con los siguientes recursos:
     <ol type="a">
-      <li><a href="XXX">Herramientas</a>: librerías recomendadas y organizadas en +10 categorías, como procesamiento de secuencias y estructuras de proteínas, descarga de datos, machine learning, etc.</li>
-      <li><a href="XXX">Recursos de aprendizaje</a>: cursos y blogs para aprender temas como Python, ciencia de datos, bioinformática, etc.</li>
-      <li><a href="XXX">Bases de datos</a>: recursos recomendados para descargar datos de proteínas (i.e. secuencias, estructuras, embeddings, (meta)genomas).</li>
-      <li><a href="XXX">Tutoriales</a>: tutoriales para aprender a procesar y analizar datos relacionados con la ciencia de proteínas.</li>
-      <li><a href="XXX">Artículos seleccionados</a>: artículos científicos que recomiendo</li>
-      <li><a href="XXX">Clases</a>: artículos científicos que recomiendo</li>
-      <li><a href="XXX">YouTube</a>: artículos científicos que recomiendo</li>
-      <li><a href="XXX">desc</a>Artículos seleccionados: artículos científicos que recomiendo</li>
+      <li><a href="https://github.com/miangoar/AI-driven-protein-design/tree/main/tools">Herramientas</a>: librerías organizadas en 25 categorías</li>
+      <li><a href="https://github.com/miangoar/AI-driven-protein-design/tree/main/learning_resources">Recursos de aprendizaje</a>: cursos y publicaciones útiles organizadas en ocho categorías</li>
+      <li><a href="https://github.com/miangoar/AI-driven-protein-design/tree/main/databases">Bases de datos</a>: recursos para descargar datos genómicos y de proteínas organizados en 12 categorías<</li>
+      <li><a href="https://github.com/miangoar/AI-driven-protein-design/tree/main/video">Clases</a>: enlaces a cada una de las clases y para descargar sus diapositivas</li>
+      <li><a href="https://github.com/miangoar/AI-driven-protein-design/tree/main/tutorials">Tutoriales</a>: tutoriales para aprender a procesar y analizar datos relacionados con la ciencia de proteínas</li>
+      <li><a href="https://github.com/miangoar/AI-driven-protein-design/tree/main/selected_papers">Artículos seleccionados</a>: artículos científicos recomendados</li>
     </ol>
   </li>
 </ol>
-
 
 
 # Organización de clases
