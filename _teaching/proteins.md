@@ -64,92 +64,276 @@ Con esto pretendo que tengas acceso a más información para profundizar en los 
 Las clases teóricas están organizadas de la 01 a la 10 para facilitar la comprensión de los temas. Por ejemplo, para hablar sobre AlphaFold es necesario conocer conceptos de biología estructural y deep learning. A continuación se describen brevemente las clases y sus temas:
 
 <ol>
-  <li><strong><a href="https://www.youtube.com/watch?v=TU_LINK_AQUI">Conceptos básicos de computación</a></strong>: cómo funcionan la CPU y las GPU de las computadoras, así como el software básico para el análisis de datos (i.e. Linux/Bash y Python).
+  <li><strong><a href="https://www.youtube.com/watch?v=TU_LINK_AQUI">Conceptos básicos de computación</a></strong>: cómo funcionan las CPU y GPU, así como el software esencial para el análisis de datos.
     <ol type="a">
-      <li>Cómo empezar en la bioinformática</li>
-      <li>Hardware</li>
-      <li>Software</li>
+      <li>¿Dónde comienza tu camino?</li>
+      <li>Hardware
+        <ul>
+          <li>CPU</li>
+          <li>GPU</li>
+        </ul>
+      </li>
+      <li>Software
+        <ul>
+          <li>Linux/Bash y GitHub</li>
+          <li>Python</li>
+        </ul>
+      </li>
     </ol>
   </li>
 
-  <li><strong><a href="https://www.youtube.com/watch?v=TU_LINK_AQUI">Machine learning</a></strong>: qué es la IA y sus subcampos, cuál es la capacidad actual de los algoritmos y cómo se entrena un modelo.
+  <li><strong><a href="https://www.youtube.com/watch?v=TU_LINK_AQUI">Machine learning</a></strong>: qué es la IA y sus subcampos, las capacidades actuales de los algoritmos y cómo se entrena un modelo.
     <ol type="a">
       <li>Estado actual de la IA</li>
-      <li>Cómo aprende la IA</li>
-      <li>Cómo entrenar un modelo</li>
+      <li>Cómo aprende la IA
+        <ul>
+          <li>Patrones</li>
+          <li>Operaciones de aprendizaje automático (MLOps)</li>
+          <li>Paradigmas de aprendizaje</li>
+        </ul>
+      </li>
+      <li>Cómo entrenar un modelo
+        <ul>
+          <li>Procesamiento de datos</li>
+          <li>Cómo elegir un modelo</li>
+          <li>Proceso de entrenamiento</li>
+        </ul>
+      </li>
     </ol>
   </li>
 
-  <li><strong><a href="https://www.youtube.com/watch?v=TU_LINK_AQUI">Deep learning</a></strong>: cómo funcionan las redes neuronales, los distintos tipos de redes neuronales que existen y qué software se usa para trabajar con ellas.
+  <li><strong><a href="https://www.youtube.com/watch?v=TU_LINK_AQUI">Deep learning</a></strong>: cómo funcionan las redes neuronales, los diferentes tipos y el software utilizado para trabajar con ellas.
     <ol type="a">
-      <li>Redes neuronales</li>
-      <li>Librerías de deep learning</li>
+      <li>Redes neuronales
+        <ul>
+          <li>Neuronas</li>
+          <li>Aprendizaje profundo</li>
+          <li>Funciones de pérdida</li>
+          <li>Retropropagación (Backpropagation)</li>
+          <li>Optimizadores</li>
+          <li>Arquitecturas</li>
+          <li>Explicabilidad (por qué) e Interpretabilidad (cómo)</li>
+        </ul>
+      </li>
+      <li>Frameworks de aprendizaje profundo</li>
     </ol>
   </li>
 
-  <li><strong><a href="https://www.youtube.com/watch?v=TU_LINK_AQUI">Transformers y modelos de lenguaje</a></strong>: cómo funcionan los Transformers y los modelos de lenguaje modernos, así como el software que se usa para trabajar con ellos.
+  <li><strong><a href="https://www.youtube.com/watch?v=TU_LINK_AQUI">Transformers y modelos de lenguaje</a></strong>: funcionamiento de los Transformers y los modelos de lenguaje modernos.
     <ol type="a">
       <li>Modelos de lenguaje</li>
-      <li>Transformers</li>
-      <li>Desempeño y generalización</li>
-      <li>Cómo trabajar con modelos de lenguaje</li>
+      <li>Transformers
+        <ul>
+          <li>Arquitectura original</li>
+          <li>Arquitecturas BERT y GPT</li>
+          <li>Leyes de escala (Scaling laws)</li>
+          <li>Pre-entrenamiento y post-entrenamiento</li>
+          <li>Aprendizaje por refuerzo</li>
+        </ul>
+      </li>
+      <li>Rendimiento y generalización
+        <ul>
+          <li>Saturación de benchmarks</li>
+          <li>Hype (expectativas excesivas)</li>
+        </ul>
+      </li>
+      <li>Cómo trabajar con LLMs
+        <ul>
+          <li>Técnicas de optimización (para quienes no tienen GPUs potentes)</li>
+          <li>Hugging Face y Software 2.0</li>
+        </ul>
+      </li>
     </ol>
   </li>
 
-  <li><strong><a href="https://www.youtube.com/watch?v=TU_LINK_AQUI">Estructura de proteínas</a></strong>: principios de biología estructural, así como la organización de secuencias y estructuras de proteínas.
+  <li><strong><a href="https://www.youtube.com/watch?v=TU_LINK_AQUI">Estructura de proteínas</a></strong>: principios de biología estructural y organización.
     <ol type="a">
-      <li>Organización estructural</li>
-      <li>Clasificaciones</li>
-      <li>La forma del universo de proteínas</li>
+      <li>Organización estructural
+        <ul>
+          <li>Aminoácidos</li>
+          <li>Estructura secundaria y terciaria</li>
+          <li>Flujo de trabajo experimental para la determinación de estructuras</li>
+          <li>Visualizadores de estructuras</li>
+        </ul>
+      </li>
+      <li>Clasificaciones
+        <ul>
+          <li>Plegamientos (folds) y dominios</li>
+          <li>Primeros esquemas de clasificación</li>
+          <li>Métricas de similitud</li>
+          <li>Divergencia secuencial y estructural</li>
+          <li>Esquemas de clasificación actuales</li>
+        </ul>
+      </li>
+      <li>La forma del universo proteico
+        <ul>
+          <li>Distribución desigual</li>
+          <li>Relaciones homólogas complejas</li>
+          <li>Cambio de plegamiento (Switch folds)</li>
+        </ul>
+      </li>
     </ol>
   </li>
 
-  <li><strong><a href="https://www.youtube.com/watch?v=TU_LINK_AQUI">Función de proteínas</a></strong>: cómo las proteínas adoptan su estructura, cómo ocurre la catálisis y la unión a ligandos, y cómo se regula la función.
+  <li><strong><a href="https://www.youtube.com/watch?v=TU_LINK_AQUI">Función de las proteínas</a></strong>: cómo adoptan su estructura y cómo se regula su función.
     <ol type="a">
-      <li>Plegamiento</li>
-      <li>Función</li>
-      <li>Regulación funcional</li>
+      <li>Plegamiento de proteínas
+        <ul>
+          <li>Entorno celular</li>
+          <li>Termodinámica y entropía conformacional</li>
+        </ul>
+      </li>
+      <li>Función de las proteínas
+        <ul>
+          <li>Difusión</li>
+          <li>Dinámica molecular y funciones de energía</li>
+          <li>Enzimas</li>
+          <li>Anotación funcional</li>
+        </ul>
+      </li>
+      <li>Regulación funcional
+        <ul>
+          <li>Alosterismo</li>
+          <li>Regulación transcripcional</li>
+          <li>Modificaciones post-traduccionales</li>
+          <li>Proteoestasis y fisiología del huésped</li>
+        </ul>
+      </li>
     </ol>
   </li>
 
-  <li><strong><a href="https://www.youtube.com/watch?v=TU_LINK_AQUI">Evolución de proteínas</a></strong>: cómo se cree que se generaron y diversificaron las proteínas a partir de péptidos más simples y cómo opera la evolución molecular.
+  <li><strong><a href="https://www.youtube.com/watch?v=TU_LINK_AQUI">Evolución de proteínas</a></strong>: origen y diversificación a partir de péptidos simples.
     <ol type="a">
-      <li>Niveles de organización biológica</li>
-      <li>Evolución biológica</li>
-      <li>El espacio de secuencia</li>
-      <li>Epistasis</li>
+      <li>Niveles de organización biológica
+        <ul>
+          <li>Evolución a través de escalas espacio-temporales</li>
+          <li>Evolución química</li>
+        </ul>
+      </li>
+      <li>Evolución biológica
+        <ul>
+          <li>Hipótesis del mundo de ARN y evolución del ribosoma</li>
+          <li>Proteínas ancestrales</li>
+          <li>Diversificación proteica</li>
+        </ul>
+      </li>
+      <li>El espacio de secuencias
+        <ul>
+          <li>Mutaciones</li>
+          <li>Robustez, evolubilidad y promiscuidad</li>
+          <li>Evolución de la función proteica</li>
+        </ul>
+      </li>
+      <li>Epistasia: Cómo las interacciones moldean la evolución
+        <ul>
+          <li>Interacciones residuo-residuo y proteína-proteína</li>
+          <li>Aleatoriedad de las mutaciones</li>
+        </ul>
+      </li>
     </ol>
   </li>
 
-  <li><strong><a href="https://www.youtube.com/watch?v=TU_LINK_AQUI">AlphaFold</a></strong>: revisión de la arquitectura de AlphaFold2 y AlphaFold3, sus fortalezas y debilidades e impacto en la ciencia.
+  <li><strong><a href="https://www.youtube.com/watch?v=TU_LINK_AQUI">AlphaFold</a></strong>: visión general de las arquitecturas AF2 y AF3 y su impacto.
     <ol type="a">
+      <li>El impacto de AlphaFold
+        <ul>
+          <li>AlphaFoldmania</li>
+          <li>Predicción de estructuras antes de AlphaFold</li>
+        </ul>
+      </li>
       <li>AlphaFold</li>
-      <li>AlphaFold2</li>
-      <li>AlphaFold3</li>
+      <li>AlphaFold2
+        <ul>
+          <li>Modelos de lenguaje de proteínas</li>
+          <li>Arquitectura</li>
+          <li>La era post-AlphaFold2</li>
+        </ul>
+      </li>
+      <li>AlphaFold3
+        <ul>
+          <li>Modelos de difusión para modelado macromolecular</li>
+          <li>Arquitectura</li>
+          <li>La era post-AlphaFold3</li>
+        </ul>
+      </li>
     </ol>
   </li>
 
-  <li><strong><a href="https://www.youtube.com/watch?v=TU_LINK_AQUI">Diseño de proteínas basado en IA</a></strong>: motivos para diseñar proteínas, cómo son las proteínas diseñadas y cómo se ha implementado la IA para modernizar los métodos clásicos y crear nuevos enfoques.
+  <li><strong><a href="https://www.youtube.com/watch?v=TU_LINK_AQUI">Diseño de proteínas impulsado por IA</a></strong>: motivaciones y métodos modernos de IA.
     <ol type="a">
-      <li>Diseño de proteínas</li>
-      <li>Diseño racional</li>
-      <li>Diseño evolutivo</li>
-      <li>Aprendizaje de representaciones</li>
-      <li>IA generativa</li>
+      <li>Diseño de proteínas
+        <ul>
+          <li>La IA en el mercado biotecnológico</li>
+          <li>Avances desde métodos clásicos a métodos impulsados por IA</li>
+          <li>Consideraciones básicas para aumentar el éxito de un diseño</li>
+        </ul>
+      </li>
+      <li>Diseño racional
+        <ul>
+          <li>Enfoques experimentales y bioinformáticos clásicos</li>
+          <li>Modelado macromolecular y recombineering</li>
+        </ul>
+      </li>
+      <li>Diseño evolutivo
+        <ul>
+          <li>Evolución dirigida, reconstrucción de secuencias ancestrales y diseño por consenso</li>
+        </ul>
+      </li>
+      <li>Aprendizaje de representaciones (Representation learning)
+        <ul>
+          <li>Representaciones (macro)moleculares</li>
+          <li>Modelos de lenguaje de proteínas y ESMFold</li>
+          <li>Explicabilidad e interpretabilidad de modelos de lenguaje de proteínas</li>
+          <li>Leyes de escala y multimodalidad en modelos de lenguaje de proteínas</li>
+        </ul>
+      </li>
+      <li>IA Generativa
+        <ul>
+          <li>Integración de datos multimodales</li>
+          <li>Generación de secuencias</li>
+          <li>Generalización y predicción de aptitud (fitness) con modelos de lenguaje</li>
+          <li>Plegamiento inverso y ProteinMPNN</li>
+          <li>Generación de estructuras con modelos de difusión</li>
+          <li>Selección de modelos y puntuación computacional de candidatos</li>
+          <li>Generalización de modelos y datos sintéticos</li>
+        </ul>
+      </li>
+      <li>Resumen</li>
     </ol>
   </li>
 
-  <li><strong><a href="https://www.youtube.com/watch?v=TU_LINK_AQUI">Datos y sesgos</a></strong>: bases de datos relevantes, cómo procesar datos para usarlos en el entrenamiento de modelos y ejemplos de los sesgos inherentes que contienen.
+  <li><strong><a href="https://www.youtube.com/watch?v=TU_LINK_AQUI">Datos y sesgos</a></strong>: bases de datos relevantes y procesamiento de datos.
     <ol type="a">
-      <li>Big data en ómicas</li>
-      <li>Conjuntos de datos</li>
-      <li>Procesamiento de datos</li>
-      <li>Generalización en biología</li>
+      <li>Big Data es Ómica
+        <ul>
+          <li>Propiedades de un buen conjunto de datos</li>
+        </ul>
+      </li>
+      <li>Principales bases de datos
+        <ul>
+          <li>PDB</li>
+          <li>UniProt</li>
+          <li>Conjuntos de datos del NCBI</li>
+          <li>Otras bases de datos de interés</li>
+        </ul>
+      </li>
+      <li>Procesamiento de datos
+        <ul>
+          <li>Limpieza de datos en biología</li>
+          <li>Herramientas básicas para manipulación de datos biológicos</li>
+          <li>División de datos (Data splitting)</li>
+        </ul>
+      </li>
+      <li>Generalización en biología (de proteínas)
+        <ul>
+          <li>Fuga de datos (Data leakage) y otros problemas inherentes</li>
+        </ul>
+      </li>
       <li>Sesgos en los datos</li>
+      <li>Una hoja de ruta para el diseño de proteínas impulsado por IA</li>
     </ol>
   </li>
 </ol>
-
 
 ## Como apoyar a este proyecto 
 
