@@ -14,13 +14,12 @@ Hice este <a href="https://github.com/miangoar/AI-driven-protein-design">curso g
 
 # Contenido
 - [Descripcion general](#descripcion-general)
-- [Acceso a las diapositivas](#acceso-a-las-diapositivas)
 - [Organización de clases ](#organización-de-clases)
+- [Acceso a las diapositivas](#acceso-a-las-diapositivas)
 - [Como apoyar este proyecto ](#como-apoyar-este-proyecto)
 - [Sobre mi](#sobre-mi)
 
 # Descripcion general
-
 Quiero que más personas aprendan a diseñar proteínas usando Inteligencia Artificial (IA). Sin embargo, he encontrado dos problemas:
 1. no hay cursos integrales en línea sobre el tema
 2. los cursos relacionados con el tema suelen ser costosos para la mayoría de los estudiantes de Latinoamérica
@@ -30,14 +29,18 @@ Quiero que más personas aprendan a diseñar proteínas usando Inteligencia Arti
   <li><a href="https://www.youtube.com/@miangoar_bio">Las 10 clases en YouTube</a></li>
   <li><a href="https://github.com/miangoar/AI-driven-protein-desig">Un repositorio en GitHub</a> con los siguientes recursos:
     <ol type="a">
-      <li>Herramientas: librerías recomendadas y organizadas en +10 categorías, como procesamiento de secuencias y estructuras de proteínas, descarga de datos, machine learning, etc.</li>
-      <li>Recursos de aprendizaje: cursos y blogs para aprender temas como Python, ciencia de datos, bioinformática, etc.</li>
-      <li>Bases de datos: recursos recomendados para descargar datos de proteínas (i.e. secuencias, estructuras, embeddings, (meta)genomas).</li>
-      <li>Tutoriales: tutoriales para aprender a procesar y analizar datos relacionados con la ciencia de proteínas.</li>
-      <li>Artículos seleccionados: artículos científicos que recomiendo</li>
+      <li><a href="XXX">Herramientas</a>: librerías recomendadas y organizadas en +10 categorías, como procesamiento de secuencias y estructuras de proteínas, descarga de datos, machine learning, etc.</li>
+      <li><a href="XXX">Recursos de aprendizaje</a>: cursos y blogs para aprender temas como Python, ciencia de datos, bioinformática, etc.</li>
+      <li><a href="XXX">Bases de datos</a>: recursos recomendados para descargar datos de proteínas (i.e. secuencias, estructuras, embeddings, (meta)genomas).</li>
+      <li><a href="XXX">Tutoriales</a>: tutoriales para aprender a procesar y analizar datos relacionados con la ciencia de proteínas.</li>
+      <li><a href="XXX">Artículos seleccionados</a>: artículos científicos que recomiendo</li>
+      <li><a href="XXX">Clases</a>: artículos científicos que recomiendo</li>
+      <li><a href="XXX">YouTube</a>: artículos científicos que recomiendo</li>
+      <li><a href="XXX">desc</a>Artículos seleccionados: artículos científicos que recomiendo</li>
     </ol>
   </li>
 </ol>
+
 
 
 # Organización de clases
