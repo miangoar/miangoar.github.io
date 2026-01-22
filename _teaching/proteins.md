@@ -27,7 +27,7 @@ Quiero que más personas aprendan a diseñar proteínas usando Inteligencia Arti
 2. no hay cursos integrales en línea y en Español sobre el tema
 3. los cursos relacionados con el tema suelen ser costosos para la mayoría de los estudiantes de Latinoamérica
 
-<p>Para atender estos problemas, hice este curso gratuito de 10 clases para introducirte al diseño de proteínas basado en IA. El curso tiene dos recursos principales:</p>
+<p>Para atender estos problemas, diseñé este curso gratuito de 37 horas, distribuido en 10 clases, para introducirte al diseño de proteínas basado en IA. El curso cuenta con dos recursos principales:</p>
 <ol>
   <li><a href="https://www.youtube.com/@miangoar_bio">Las 10 clases en YouTube</a></li>
   <li><a href="https://github.com/miangoar/AI-driven-protein-desig">Un repositorio en GitHub</a> con los siguientes recursos:
