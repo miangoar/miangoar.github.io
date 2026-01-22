@@ -16,7 +16,7 @@ Hice este <a href="https://github.com/miangoar/AI-driven-protein-design">curso g
 - [Descripción general](#descripción-general)
 - [Organización de clases ](#organización-de-clases)
 - [Acceso a las diapositivas](#acceso-a-las-diapositivas)
-- [Cómo apoyar este proyecto ](#como-apoyar-este-proyecto)
+- [Cómo apoyar este proyecto](#cómo-apoyar-este-proyecto)
 - [Sobre mí](#sobre-mí)
 
 Nota: aquí hay una [versión en inglés](https://miangoaren.github.io/teaching/proteins) de esta página 
@@ -351,11 +351,10 @@ Si este curso te fue útil y deseas retribuirlo económicamente, puedes hacer un
 Si no cuentas con gran libertad económica, pero quieres expresar tu gratitud, puedes enviarme tus comentarios a mi correo: gamamiguelangel@gmail.com
 
 Finalmente, te agradecería que compartieras este curso con colegas interesados, o bien, que difundieras (dar repost) el anuncio oficial de este curso en distintas redes sociales (pendiente a publicar una vez se hayan publicado todos los videos):
-- [(X)Twitter]()
-- [Instagram]()
-- [BlueSky]() 
-- [LinkedIn]()
-
+- [(X)Twitter](https://x.com/miangoar)
+- [Instagram](https://www.instagram.com/miangoar/#)
+- [BlueSky](https://bsky.app/profile/miangoar.bsky.social)
+- [LinkedIn](https://www.linkedin.com/in/miguel-angel-gonzalez-arias-61b04b2ba/)
 
 # Sobre mí
 
