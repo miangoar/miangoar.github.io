@@ -8,29 +8,32 @@ date: 2025-10-10
 location: "México"
 ---
 
-Hice este <a href="https://github.com/miangoar/AI-driven-protein-design">curso gratuito</a> de 10 clases para introducirte al diseño de proteínas. 
+Hice este <a href="https://github.com/miangoar/AI-driven-protein-design">curso gratuito</a> de 37h de duracion (10 clases) para introducirte al diseño de proteínas. 
 
 ![webinar](/images/teaching/roadmap.jpg)
 
 ## Descripcion general
 
-Quiero que más personas aprendan a diseñar proteínas usando Inteligencia Artificial (IA). Sin embargo, he encontrado dos problemas:
-1. no hay cursos integrales en línea sobre el tema
-2. los cursos relacionados con el tema suelen ser costosos para la mayoría de los estudiantes de Latinoamérica
+Quiero que más personas aprendan a diseñar proteínas usando Inteligencia Artificial (IA). Sin embargo, he encontrado tres problemas:
+1. Hay mucha información y no es claro por dónde empezar a aprender ni cuáles son los temas necesarios a abarcar
+2. No hay cursos integrales en línea y en Español sobre el tema 
+3. Los cursos relacionados con el tema suelen ser costosos, especialmente para la mayoría de los estudiantes de Latinoamérica
 
-<p>Para atender estos problemas, hice este curso gratuito de 10 clases para introducirte al diseño de proteínas basado en IA. El curso tiene dos recursos principales:</p>
+<p>Para atender estos problemas, hice este curso gratuito de 37 horas de duracion distribuidas en 10 clases para introducirte al diseño de proteínas basado en IA. El curso tiene dos recursos principales:</p>
 <ol>
   <li><a href="https://www.youtube.com/@miangoar_bio">Las 10 clases en YouTube</a></li>
   <li><a href="https://github.com/miangoar/AI-driven-protein-desig">Un repositorio en GitHub</a> con los siguientes recursos:
     <ol type="a">
-      <li>Herramientas: librerías recomendadas y organizadas en +10 categorías, como procesamiento de secuencias y estructuras de proteínas, descarga de datos, machine learning, etc.</li>
-      <li>Recursos de aprendizaje: cursos y blogs para aprender temas como Python, ciencia de datos, bioinformática, etc.</li>
-      <li>Bases de datos: recursos recomendados para descargar datos de proteínas (i.e. secuencias, estructuras, embeddings, (meta)genomas).</li>
-      <li>Tutoriales: tutoriales para aprender a procesar y analizar datos relacionados con la ciencia de proteínas.</li>
-      <li>Artículos seleccionados: artículos científicos que recomiendo</li>
+      <li><a href="https://github.com/miangoar/AI-driven-protein-design/tree/main/tools">Herramientas</a>: más de 300 librerías organizadas en 25 categorías relacionadas con la ciencia de proteínas, bioinformática y ciencia de datos</li>
+      <li><a href="https://github.com/miangoar/AI-driven-protein-design/tree/main/learning_resources">Recursos de aprendizaje</a>: cursos y publicaciones útiles organizadas en ocho categorías para aprender temas como Python, ciencia de datos, bioinformática, etc.</li>
+      <li><a href="https://github.com/miangoar/AI-driven-protein-design/tree/main/databases">Bases de datos</a>: recursos para descargar información genómica y de proteínas organizados en 12 categorías</li>
+      <li><a href="https://github.com/miangoar/AI-driven-protein-design/tree/main/tutorials">Tutoriales</a>: tutoriales para aprender a procesar y analizar datos relacionados con la ciencia de proteínas.</li>
+      <li><a href="https://github.com/miangoar/AI-driven-protein-design/tree/main/selected_papers">Artículos seleccionados</a>: artículos científicos recomendados</li>
     </ol>
   </li>
 </ol>
+
+
 
 
 ## Acceso a las diapositivas
