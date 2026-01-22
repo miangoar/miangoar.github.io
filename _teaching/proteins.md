@@ -323,7 +323,7 @@ Las clases están organizadas de la 01 a la 10 para facilitar la comprensión de
 
 # Acceso a las diapositivas
 
-Este curso se compone de +800 diapositivas con las fuentes de las imágenes y citas, así como recursos recomendados en la sección de notas. Recomiendo revisar las diapositivas con PowerPoint. Puedes descargar las diapositivas en las siguientes plataformas:
+Este curso se compone de +800 diapositivas con las fuentes de las imágenes y citas, así como recursos recomendados para profundizar en cada tema, en la sección de notas. Recomiendo revisar las diapositivas con PowerPoint. Puedes descargar las diapositivas en las siguientes plataformas:
 
 * [Zenodo]()
 * [Google Drive]()
