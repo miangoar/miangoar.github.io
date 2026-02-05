@@ -19,6 +19,7 @@ Hice este <a href="https://github.com/miangoar/AI-driven-protein-design">curso g
 - [Cómo apoyar este proyecto](#cómo-apoyar-este-proyecto)
 - [Sobre mí](#sobre-mí)
 
+Note: there is a version of this page in [English](https://miangoaren.github.io/teaching/proteins) /
 Nota: aquí hay una [versión en inglés](https://miangoaren.github.io/teaching/proteins) de esta página 
 
 # Descripción general
@@ -49,7 +50,7 @@ Quiero que más personas aprendan a diseñar proteínas usando Inteligencia Arti
 Las clases están organizadas de la 01 a la 10 para facilitar la comprensión de los temas. Por ejemplo, para revisar AlphaFold se requieren conceptos de biología estructural y deep learning que son explorados a detalle en sus respectivas clases. A continuación se describen brevemente las clases y sus temas:
 
 <ol>
-  <li><strong><a href="https://www.youtube.com/watch?v=TU_LINK_AQUI">Conceptos básicos de computación</a></strong>: cómo funcionan las CPU y GPU, así como el software esencial para el análisis de datos.
+  <li><strong><a href="https://www.youtube.com/watch?v=uMkZzKbnoJI">Conceptos básicos de computación</a></strong>: cómo funcionan las CPU y GPU, así como el software esencial para el análisis de datos.
     <ol type="a">
       <li>¿Dónde comienza tu camino?</li>
       <li>Hardware
@@ -67,7 +68,7 @@ Las clases están organizadas de la 01 a la 10 para facilitar la comprensión de
     </ol>
   </li>
 
-  <li><strong><a href="https://www.youtube.com/watch?v=TU_LINK_AQUI">Machine learning</a></strong>: qué es la IA y sus subcampos, las capacidades actuales de los algoritmos y cómo se entrena un modelo.
+  <li><strong><a href="https://www.youtube.com/watch?v=Xx80O85-5rI">Machine learning</a></strong>: qué es la IA y sus subcampos, las capacidades actuales de los algoritmos y cómo se entrena un modelo.
     <ol type="a">
       <li>Estado actual de la IA</li>
       <li>Cómo aprende la IA
@@ -87,7 +88,7 @@ Las clases están organizadas de la 01 a la 10 para facilitar la comprensión de
     </ol>
   </li>
 
-  <li><strong><a href="https://www.youtube.com/watch?v=TU_LINK_AQUI">Deep learning</a></strong>: cómo funcionan las redes neuronales, los diferentes tipos de arquitecturas y el software utilizado para trabajar con ellas.
+  <li><strong><a href="https://www.youtube.com/watch?v=pAgL7NsCUMU">Deep learning</a></strong>: cómo funcionan las redes neuronales, los diferentes tipos de arquitecturas y el software utilizado para trabajar con ellas.
     <ol type="a">
       <li>Redes neuronales
         <ul>
@@ -104,7 +105,7 @@ Las clases están organizadas de la 01 a la 10 para facilitar la comprensión de
     </ol>
   </li>
 
-  <li><strong><a href="https://www.youtube.com/watch?v=TU_LINK_AQUI">Transformers y modelos de lenguaje</a></strong>: funcionamiento de los Transformers y los modelos de lenguaje modernos.
+  <li><strong><a href="https://www.youtube.com/watch?v=vUpb6O6T2yQ">Transformers y modelos de lenguaje</a></strong>: funcionamiento de los Transformers y los modelos de lenguaje modernos.
     <ol type="a">
       <li>Modelos de lenguaje</li>
       <li>Transformers
@@ -131,7 +132,7 @@ Las clases están organizadas de la 01 a la 10 para facilitar la comprensión de
     </ol>
   </li>
 
-  <li><strong><a href="https://www.youtube.com/watch?v=TU_LINK_AQUI">Estructura de proteínas</a></strong>: principios de biología estructural y organización.
+  <li><strong><a href="https://www.youtube.com/watch?v=gE6qXwpBP_s">Estructura de proteínas</a></strong>: principios de biología estructural y organización.
     <ol type="a">
       <li>Organización estructural
         <ul>
@@ -160,7 +161,7 @@ Las clases están organizadas de la 01 a la 10 para facilitar la comprensión de
     </ol>
   </li>
 
-  <li><strong><a href="https://www.youtube.com/watch?v=TU_LINK_AQUI">Función de las proteínas</a></strong>: cómo adoptan su estructura y cómo se regula su función.
+  <li><strong><a href="https://www.youtube.com/watch?v=cZs8XtVYa5A">Función de las proteínas</a></strong>: cómo adoptan su estructura y cómo se regula su función.
     <ol type="a">
       <li>Plegamiento de proteínas
         <ul>
@@ -187,7 +188,7 @@ Las clases están organizadas de la 01 a la 10 para facilitar la comprensión de
     </ol>
   </li>
 
-  <li><strong><a href="https://www.youtube.com/watch?v=TU_LINK_AQUI">Evolución de proteínas</a></strong>: origen y diversificación a partir de péptidos simples.
+  <li><strong><a href="https://www.youtube.com/watch?v=qaypRS8SX5M">Evolución de proteínas</a></strong>: origen y diversificación a partir de péptidos simples.
     <ol type="a">
       <li>Niveles de organización biológica
         <ul>
@@ -218,7 +219,7 @@ Las clases están organizadas de la 01 a la 10 para facilitar la comprensión de
     </ol>
   </li>
 
-  <li><strong><a href="https://www.youtube.com/watch?v=TU_LINK_AQUI">AlphaFold</a></strong>: visión general de las arquitecturas AF2 y AF3 y su impacto.
+  <li><strong><a href="https://www.youtube.com/watch?v=_jDRr5BcTaY">AlphaFold</a></strong>: visión general de las arquitecturas AF2 y AF3 y su impacto.
     <ol type="a">
       <li>El impacto de AlphaFold
         <ul>
@@ -244,7 +245,7 @@ Las clases están organizadas de la 01 a la 10 para facilitar la comprensión de
     </ol>
   </li>
 
-  <li><strong><a href="https://www.youtube.com/watch?v=TU_LINK_AQUI">Diseño de proteínas basado en IA</a></strong>: paradigmas del diseño de proteínas e implementaciones modernas basadas en IA.
+  <li><strong><a href="https://www.youtube.com/watch?v=wKUYtAt87d4">Diseño de proteínas basado en IA</a></strong>: paradigmas del diseño de proteínas e implementaciones modernas basadas en IA.
     <ol type="a">
       <li>Diseño de proteínas
         <ul>
@@ -287,7 +288,7 @@ Las clases están organizadas de la 01 a la 10 para facilitar la comprensión de
     </ol>
   </li>
 
-  <li><strong><a href="https://www.youtube.com/watch?v=TU_LINK_AQUI">Datos y sesgos</a></strong>: Bases de datos, técnicas de procesamiento, sesgos inherentes a los datos y generalización aplicada a la biología
+  <li><strong><a href="https://www.youtube.com/watch?v=SKpHaHgvCKE">Datos y sesgos</a></strong>: Bases de datos, técnicas de procesamiento, sesgos inherentes a los datos y generalización aplicada a la biología
     <ol type="a">
       <li>Los datos masivos son ómicos.
         <ul>
