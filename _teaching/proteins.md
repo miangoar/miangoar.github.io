@@ -323,20 +323,21 @@ Las clases están organizadas de la 01 a la 10 para facilitar la comprensión de
 
 # Acceso a las diapositivas
 
-Este curso se compone de +800 diapositivas con las fuentes de las imágenes y citas, así como recursos recomendados para profundizar en cada tema, en la sección de notas. Recomiendo revisar las diapositivas con PowerPoint. Puedes descargar las diapositivas en Zenodo y Google Drive:
+Este curso se compone de +800 diapositivas con las fuentes de las imágenes y citas, así como recursos recomendados para profundizar en cada tema, en la sección de notas. Recomiendo revisar las diapositivas con PowerPoint. Puedes descargar las diapositivas en Zenodo y [Google Drive](https://drive.google.com/drive/folders/1V-XdaA2eqY5857gxV4LpSGIX3z8JP1Gq?usp=sharing):
 
 | Tema | Diapositivas | YouTube |
 |-----|------------------|-----------------|
-| Conceptos básicos de computación | [Drive](https://drive.google.com/FILE_ID_1), [Zenodo](https://zenodo.org/) | [Video](https://youtu.be/VIDEO_ID_1) |
-| Machine learning | [Drive](https://drive.google.com/FILE_ID_2), [Zenodo](https://zenodo.org/) | [Video](https://youtu.be/VIDEO_ID_2) |
-| Deep learning | [Drive](https://drive.google.com/FILE_ID_3), [Zenodo](https://zenodo.org/) | [Video](https://youtu.be/VIDEO_ID_3) |
-| Transformers y modelos de lenguaje | [Drive](https://drive.google.com/FILE_ID_4), [Zenodo](https://zenodo.org/) | [Video](https://youtu.be/VIDEO_ID_4) |
-| Estructura de proteínas | [Drive](https://drive.google.com/FILE_ID_5), [Zenodo](https://zenodo.org/) | [Video](https://youtu.be/VIDEO_ID_5) |
-| Función de proteínas | [Drive](https://drive.google.com/FILE_ID_6), [Zenodo](https://zenodo.org/) | [Video](https://youtu.be/VIDEO_ID_6) |
-| Evolución de proteínas | [Drive](https://drive.google.com/FILE_ID_7), [Zenodo](https://zenodo.org/) | [Video](https://youtu.be/VIDEO_ID_7) |
-| AlphaFold | [Drive](https://drive.google.com/FILE_ID_8), [Zenodo](https://zenodo.org/) | [Video](https://youtu.be/VIDEO_ID_8) |
-| Diseño de proteínas basado en IA | [Drive](https://drive.google.com/FILE_ID_9), [Zenodo](https://zenodo.org/) | [Video](https://youtu.be/VIDEO_ID_9) |
-| Datos y sesgos | [Drive](https://drive.google.com/FILE_ID_10), [Zenodo](https://zenodo.org/) | [Video](https://youtu.be/VIDEO_ID_10) |
+| Conceptos básicos de computación | [Drive](https://drive.google.com/file/d/1uDweEDt8-dIaQ1_IFNSNIHehblBNBSGW/view), [Zenodo](https://zenodo.org/) | [Video](https://youtu.be/uMkZzKbnoJI) |
+| Machine learning | [Drive](https://drive.google.com/file/d/1i-JoCQHsph0z692FAuigGVznTo4oybO7/view), [Zenodo](https://zenodo.org/) | [Video](https://youtu.be/uMkZzKbnoJI) |
+| Deep learning | [Drive](https://drive.google.com/file/d/1caztPrQ8ve1FXoSNyg_HUzP8xrPOGUgb/view), [Zenodo](https://zenodo.org/) | [Video](https://youtu.be/pAgL7NsCUMU) |
+| Transformers y modelos de lenguaje | [Drive](https://drive.google.com/file/d/1y2VjOjBKCurUYDojCNFtDd9nIVXGhia_/view4), [Zenodo](https://zenodo.org/) | [Video](https://youtu.be/vUpb6O6T2yQ) |
+| Estructura de proteínas | [Drive](https://drive.google.com/file/d/1F99Vb2uh7QAgCvsaEIAt7BbuP5yyy2Yb/view), [Zenodo](https://zenodo.org/) | [Video](https://youtu.be/gE6qXwpBP_s) |
+| Función de proteínas | [Drive](https://drive.google.com/file/d/1TpPji-In5Ubbih4eUSljn70jiv07twtJ/view), [Zenodo](https://zenodo.org/) | [Video](https://youtu.be/cZs8XtVYa5A) |
+| Evolución de proteínas | [Drive](https://drive.google.com/file/d/1BfQdzv9ysn6_7CUZyVqsW5YGY0y21Mxb/view), [Zenodo](https://zenodo.org/) | [Video](https://youtu.be/qaypRS8SX5M) |
+| AlphaFold | [Drive](https://drive.google.com/file/d/1i4QEvAMAoUPGVoHxlHa3zwubbm40dcZk/view), [Zenodo](https://zenodo.org/) | [Video](https://youtu.be/_jDRr5BcTaY) |
+| Diseño de proteínas basado en IA | [Drive](https://drive.google.com/file/d/1EPLjI6JhoPQ9tO9VvIACS0m1ZJWw6zwz/view), [Zenodo](https://zenodo.org/) | [Video](https://youtu.be/wKUYtAt87d4This) |
+| Datos y sesgos | [Drive](http://drive.google.com/file/d/1jpEwDBncJCRviG_DaWs2EpzCL_1BfB9t/view ), [Zenodo](https://zenodo.org/) | [Video](https://youtu.be/SKpHaHgvCKE) |
+
 
 Al liberar las diapositivas pretendo que tengas acceso a información para profundizar. Si eres docente y has adoptado este material para tus clases, por favor, házmelo saber. Me encantaría conocer cómo mejoraste el curso y saber que más personas han aprendido sobre ciencia de proteínas. 
 
