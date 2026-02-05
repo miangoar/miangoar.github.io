@@ -323,20 +323,20 @@ Las clases están organizadas de la 01 a la 10 para facilitar la comprensión de
 
 # Acceso a las diapositivas
 
-Este curso se compone de +800 diapositivas con las fuentes de las imágenes y citas, así como recursos recomendados para profundizar en cada tema, en la sección de notas. Recomiendo revisar las diapositivas con PowerPoint. Puedes descargar las diapositivas en Zenodo y [Google Drive](https://drive.google.com/drive/folders/1V-XdaA2eqY5857gxV4LpSGIX3z8JP1Gq?usp=sharing):
+Este curso se compone de +800 diapositivas con las fuentes de las imágenes y citas, así como recursos recomendados para profundizar en cada tema, en la sección de notas. Recomiendo revisar las diapositivas con PowerPoint. Puedes descargar las diapositivas en [Zenodo](https://zenodo.org/records/18498885) (links directos a descarga) y [Google Drive](https://drive.google.com/drive/folders/1V-XdaA2eqY5857gxV4LpSGIX3z8JP1Gq?usp=sharing):
 
 | Tema | Diapositivas | YouTube |
 |-----|------------------|-----------------|
-| Conceptos básicos de computación | [Drive](https://drive.google.com/file/d/1uDweEDt8-dIaQ1_IFNSNIHehblBNBSGW/view), [Zenodo](https://zenodo.org/) | [Video](https://youtu.be/uMkZzKbnoJI) |
-| Machine learning | [Drive](https://drive.google.com/file/d/1i-JoCQHsph0z692FAuigGVznTo4oybO7/view), [Zenodo](https://zenodo.org/) | [Video](https://youtu.be/Xx80O85-5rI) |
-| Deep learning | [Drive](https://drive.google.com/file/d/1caztPrQ8ve1FXoSNyg_HUzP8xrPOGUgb/view), [Zenodo](https://zenodo.org/) | [Video](https://youtu.be/pAgL7NsCUMU) |
-| Transformers y modelos de lenguaje | [Drive](https://drive.google.com/file/d/1y2VjOjBKCurUYDojCNFtDd9nIVXGhia_/view), [Zenodo](https://zenodo.org/) | [Video](https://youtu.be/vUpb6O6T2yQ) |
-| Estructura de proteínas | [Drive](https://drive.google.com/file/d/1F99Vb2uh7QAgCvsaEIAt7BbuP5yyy2Yb/view), [Zenodo](https://zenodo.org/) | [Video](https://youtu.be/gE6qXwpBP_s) |
-| Función de proteínas | [Drive](https://drive.google.com/file/d/1TpPji-In5Ubbih4eUSljn70jiv07twtJ/view), [Zenodo](https://zenodo.org/) | [Video](https://youtu.be/cZs8XtVYa5A) |
-| Evolución de proteínas | [Drive](https://drive.google.com/file/d/1BfQdzv9ysn6_7CUZyVqsW5YGY0y21Mxb/view), [Zenodo](https://zenodo.org/) | [Video](https://youtu.be/qaypRS8SX5M) |
-| AlphaFold | [Drive](https://drive.google.com/file/d/1i4QEvAMAoUPGVoHxlHa3zwubbm40dcZk/view), [Zenodo](https://zenodo.org/) | [Video](https://youtu.be/_jDRr5BcTaY) |
-| Diseño de proteínas basado en IA | [Drive](https://drive.google.com/file/d/1EPLjI6JhoPQ9tO9VvIACS0m1ZJWw6zwz/view), [Zenodo](https://zenodo.org/) | [Video](https://youtu.be/wKUYtAt87d4This) |
-| Datos y sesgos | [Drive](http://drive.google.com/file/d/1jpEwDBncJCRviG_DaWs2EpzCL_1BfB9t/view ), [Zenodo](https://zenodo.org/) | [Video](https://youtu.be/SKpHaHgvCKE) |
+| Conceptos básicos de computación | [Drive](https://drive.google.com/file/d/1uDweEDt8-dIaQ1_IFNSNIHehblBNBSGW/view), [Zenodo](https://zenodo.org/records/18498885/files/01_Basic_computing_concepts.pptx) | [Video](https://youtu.be/uMkZzKbnoJI) |
+| Machine learning | [Drive](https://drive.google.com/file/d/1i-JoCQHsph0z692FAuigGVznTo4oybO7/view), [Zenodo](https://zenodo.org/records/18498885/files/02_Machine_learning.pptx) | [Video](https://youtu.be/Xx80O85-5rI) |
+| Deep learning | [Drive](https://drive.google.com/file/d/1caztPrQ8ve1FXoSNyg_HUzP8xrPOGUgb/view), [Zenodo](https://zenodo.org/records/18498885/files/03_Deep_learning.pptx) | [Video](https://youtu.be/pAgL7NsCUMU) |
+| Transformers y modelos de lenguaje | [Drive](https://drive.google.com/file/d/1y2VjOjBKCurUYDojCNFtDd9nIVXGhia_/view), [Zenodo](https://zenodo.org/records/18498885/files/04_Transformer_and_LLMs.pptx) | [Video](https://youtu.be/vUpb6O6T2yQ) |
+| Estructura de proteínas | [Drive](https://drive.google.com/file/d/1F99Vb2uh7QAgCvsaEIAt7BbuP5yyy2Yb/view), [Zenodo](https://zenodo.org/records/18498885/files/05_Protein_structure.pptx) | [Video](https://youtu.be/gE6qXwpBP_s) |
+| Función de proteínas | [Drive](https://drive.google.com/file/d/1TpPji-In5Ubbih4eUSljn70jiv07twtJ/view), [Zenodo](https://zenodo.org/records/18498885/files/06_Protein_function.pptx) | [Video](https://youtu.be/cZs8XtVYa5A) |
+| Evolución de proteínas | [Drive](https://drive.google.com/file/d/1BfQdzv9ysn6_7CUZyVqsW5YGY0y21Mxb/view), [Zenodo](https://zenodo.org/records/18498885/files/07_Protein_evolution.pptx) | [Video](https://youtu.be/qaypRS8SX5M) |
+| AlphaFold | [Drive](https://drive.google.com/file/d/1i4QEvAMAoUPGVoHxlHa3zwubbm40dcZk/view), [Zenodo](https://zenodo.org/records/18498885/files/08_Alphafold.pptx) | [Video](https://youtu.be/_jDRr5BcTaY) |
+| Diseño de proteínas basado en IA | [Drive](https://drive.google.com/file/d/1EPLjI6JhoPQ9tO9VvIACS0m1ZJWw6zwz/view), [Zenodo](https://zenodo.org/records/18498885/files/09_Protein_design.pptx) | [Video](https://youtu.be/wKUYtAt87d4This) |
+| Datos y sesgos | [Drive](http://drive.google.com/file/d/1jpEwDBncJCRviG_DaWs2EpzCL_1BfB9t/view ), [Zenodo](https://zenodo.org/records/18498885/files/10_Data_and_biases.pptx) | [Video](https://youtu.be/SKpHaHgvCKE) |
 
 
 Al liberar las diapositivas pretendo que tengas acceso a información para profundizar. Si eres docente y has adoptado este material para tus clases, por favor, házmelo saber. Me encantaría conocer cómo mejoraste el curso y saber que más personas han aprendido sobre ciencia de proteínas. 
@@ -351,7 +351,7 @@ Si este curso te fue útil y deseas retribuirlo económicamente, puedes hacer un
 
 Si no cuentas con gran libertad económica, pero quieres expresar tu gratitud, puedes enviarme tus comentarios a mi correo: gamamiguelangel@gmail.com
 
-Finalmente, te agradecería que compartieras este curso con colegas interesados, o bien, que difundieras (dar repost) el anuncio oficial de este curso en distintas redes sociales (pendiente a publicar una vez se hayan publicado todos los videos):
+Finalmente, te agradecería que compartieras este curso con colegas interesados, o bien, que difundieras (dar repost) el anuncio oficial de este curso en distintas redes sociales:
 - [(X)Twitter](https://x.com/miangoar)
 - [Instagram](https://www.instagram.com/miangoar/#)
 - [BlueSky](https://bsky.app/profile/miangoar.bsky.social)
