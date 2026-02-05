@@ -267,7 +267,7 @@ Las clases están organizadas de la 01 a la 10 para facilitar la comprensión de
       </li>
       <li>Aprendizaje de representaciones
         <ul>
-          <li>Representaciones (macro)moleculares</li>
+          <li>Representaciones (macro)moleculares y Foldseek</li>
           <li>Modelos de lenguaje de proteínas y ESMFold</li>
           <li>Explicabilidad e interpretabilidad de modelos de lenguaje de proteínas</li>
           <li>Leyes de escala y multimodalidad en modelos de lenguaje de proteínas</li>
@@ -328,9 +328,9 @@ Este curso se compone de +800 diapositivas con las fuentes de las imágenes y ci
 | Tema | Diapositivas | YouTube |
 |-----|------------------|-----------------|
 | Conceptos básicos de computación | [Drive](https://drive.google.com/file/d/1uDweEDt8-dIaQ1_IFNSNIHehblBNBSGW/view), [Zenodo](https://zenodo.org/) | [Video](https://youtu.be/uMkZzKbnoJI) |
-| Machine learning | [Drive](https://drive.google.com/file/d/1i-JoCQHsph0z692FAuigGVznTo4oybO7/view), [Zenodo](https://zenodo.org/) | [Video](https://youtu.be/uMkZzKbnoJI) |
+| Machine learning | [Drive](https://drive.google.com/file/d/1i-JoCQHsph0z692FAuigGVznTo4oybO7/view), [Zenodo](https://zenodo.org/) | [Video](https://youtu.be/Xx80O85-5rI) |
 | Deep learning | [Drive](https://drive.google.com/file/d/1caztPrQ8ve1FXoSNyg_HUzP8xrPOGUgb/view), [Zenodo](https://zenodo.org/) | [Video](https://youtu.be/pAgL7NsCUMU) |
-| Transformers y modelos de lenguaje | [Drive](https://drive.google.com/file/d/1y2VjOjBKCurUYDojCNFtDd9nIVXGhia_/view4), [Zenodo](https://zenodo.org/) | [Video](https://youtu.be/vUpb6O6T2yQ) |
+| Transformers y modelos de lenguaje | [Drive](https://drive.google.com/file/d/1y2VjOjBKCurUYDojCNFtDd9nIVXGhia_/view), [Zenodo](https://zenodo.org/) | [Video](https://youtu.be/vUpb6O6T2yQ) |
 | Estructura de proteínas | [Drive](https://drive.google.com/file/d/1F99Vb2uh7QAgCvsaEIAt7BbuP5yyy2Yb/view), [Zenodo](https://zenodo.org/) | [Video](https://youtu.be/gE6qXwpBP_s) |
 | Función de proteínas | [Drive](https://drive.google.com/file/d/1TpPji-In5Ubbih4eUSljn70jiv07twtJ/view), [Zenodo](https://zenodo.org/) | [Video](https://youtu.be/cZs8XtVYa5A) |
 | Evolución de proteínas | [Drive](https://drive.google.com/file/d/1BfQdzv9ysn6_7CUZyVqsW5YGY0y21Mxb/view), [Zenodo](https://zenodo.org/) | [Video](https://youtu.be/qaypRS8SX5M) |
