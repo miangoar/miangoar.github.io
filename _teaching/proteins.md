@@ -46,7 +46,7 @@ Quiero que las personas aprendan a diseñar proteínas usando Inteligencia Artif
 
 # Organización de clases
 
-![webinar](/images/teaching/lectures.png)
+![webinar](https://github.com/miangoar/AI-driven-protein-design/blob/main/img/lectures_es.png)
 
 Las clases están organizadas de la 01 a la 10 para facilitar la comprensión de los temas. Por ejemplo, para revisar AlphaFold se requieren conceptos de biología estructural, deep learning y modelos de lenguaje. Las clases fueron originalmente grabadas en español y dobladas al inglés usando modelos de IA (i.e., [WhisperX](https://github.com/m-bain/whisperX), [Deep-Translator](https://github.com/nidhaloff/deep-translator) y [kokoro](https://github.com/hexgrad/kokoro)). Debido al doblaje automático en las clases en inglés, es posible encontrar segmentos cortos de silencio, por lo que recomiendo revisarlas a una velocidad de 1.2x a 1.5x.
 
@@ -328,18 +328,18 @@ A continuación se describen brevemente las clases y sus temas:
 
 Este curso se compone de +800 diapositivas con las fuentes de las imágenes y citas, así como recursos recomendados para profundizar en cada tema, en la sección de notas. Recomiendo revisar las diapositivas con PowerPoint. Puedes descargar las diapositivas en [Zenodo](https://zenodo.org/records/18498885) (links directos a descarga) y [Google Drive](https://drive.google.com/drive/folders/1V-XdaA2eqY5857gxV4LpSGIX3z8JP1Gq?usp=sharing):
 
-| Tema | Diapositivas | YouTube |
-|-----|------------------|-----------------|
-| Conceptos básicos de computación | [Drive](https://drive.google.com/file/d/1uDweEDt8-dIaQ1_IFNSNIHehblBNBSGW/view), [Zenodo](https://zenodo.org/records/18498885/files/01_Basic_computing_concepts.pptx) | [Video](https://youtu.be/uMkZzKbnoJI) |
-| Machine learning | [Drive](https://drive.google.com/file/d/1i-JoCQHsph0z692FAuigGVznTo4oybO7/view), [Zenodo](https://zenodo.org/records/18498885/files/02_Machine_learning.pptx) | [Video](https://youtu.be/Xx80O85-5rI) |
-| Deep learning | [Drive](https://drive.google.com/file/d/1caztPrQ8ve1FXoSNyg_HUzP8xrPOGUgb/view), [Zenodo](https://zenodo.org/records/18498885/files/03_Deep_learning.pptx) | [Video](https://youtu.be/pAgL7NsCUMU) |
-| Transformers y modelos de lenguaje | [Drive](https://drive.google.com/file/d/1y2VjOjBKCurUYDojCNFtDd9nIVXGhia_/view), [Zenodo](https://zenodo.org/records/18498885/files/04_Transformer_and_LLMs.pptx) | [Video](https://youtu.be/vUpb6O6T2yQ) |
-| Estructura de proteínas | [Drive](https://drive.google.com/file/d/1F99Vb2uh7QAgCvsaEIAt7BbuP5yyy2Yb/view), [Zenodo](https://zenodo.org/records/18498885/files/05_Protein_structure.pptx) | [Video](https://youtu.be/gE6qXwpBP_s) |
-| Función de proteínas | [Drive](https://drive.google.com/file/d/1TpPji-In5Ubbih4eUSljn70jiv07twtJ/view), [Zenodo](https://zenodo.org/records/18498885/files/06_Protein_function.pptx) | [Video](https://youtu.be/cZs8XtVYa5A) |
-| Evolución de proteínas | [Drive](https://drive.google.com/file/d/1BfQdzv9ysn6_7CUZyVqsW5YGY0y21Mxb/view), [Zenodo](https://zenodo.org/records/18498885/files/07_Protein_evolution.pptx) | [Video](https://youtu.be/qaypRS8SX5M) |
-| AlphaFold | [Drive](https://drive.google.com/file/d/1i4QEvAMAoUPGVoHxlHa3zwubbm40dcZk/view), [Zenodo](https://zenodo.org/records/18498885/files/08_Alphafold.pptx) | [Video](https://youtu.be/_jDRr5BcTaY) |
-| Diseño de proteínas basado en IA | [Drive](https://drive.google.com/file/d/1EPLjI6JhoPQ9tO9VvIACS0m1ZJWw6zwz/view), [Zenodo](https://zenodo.org/records/18498885/files/09_Protein_design.pptx) | [Video](https://youtu.be/wKUYtAt87d4This) |
-| Datos y sesgos | [Drive](http://drive.google.com/file/d/1jpEwDBncJCRviG_DaWs2EpzCL_1BfB9t/view ), [Zenodo](https://zenodo.org/records/18498885/files/10_Data_and_biases.pptx) | [Video](https://youtu.be/SKpHaHgvCKE) |
+| Tema | Diapositivas | En Español | En Inglés |
+|-----|------------------|-----------------|-----------------|
+| Conceptos básicos de computación | [Drive](https://drive.google.com/file/d/1uDweEDt8-dIaQ1_IFNSNIHehblBNBSGW/view), [Zenodo](https://zenodo.org/records/18498885/files/01_Basic_computing_concepts.pptx) | [Video](https://youtu.be/uMkZzKbnoJI) | [Video](https://youtu.be/RddVvvYRpTc) |
+| Machine learning | [Drive](https://drive.google.com/file/d/1i-JoCQHsph0z692FAuigGVznTo4oybO7/view), [Zenodo](https://zenodo.org/records/18498885/files/02_Machine_learning.pptx) | [Video](https://youtu.be/Xx80O85-5rI) |  [Video](https://youtu.be/9fEl5RsLKJs) |
+| Deep learning | [Drive](https://drive.google.com/file/d/1caztPrQ8ve1FXoSNyg_HUzP8xrPOGUgb/view), [Zenodo](https://zenodo.org/records/18498885/files/03_Deep_learning.pptx) | [Video](https://youtu.be/pAgL7NsCUMU) | [Video](https://youtu.be/YiEmCQuW-xc) |
+| Transformers y modelos de lenguaje | [Drive](https://drive.google.com/file/d/1y2VjOjBKCurUYDojCNFtDd9nIVXGhia_/view), [Zenodo](https://zenodo.org/records/18498885/files/04_Transformer_and_LLMs.pptx) | [Video](https://youtu.be/vUpb6O6T2yQ) | [Video](https://youtu.be/tNAKnz_tDIc) |
+| Estructura de proteínas | [Drive](https://drive.google.com/file/d/1F99Vb2uh7QAgCvsaEIAt7BbuP5yyy2Yb/view), [Zenodo](https://zenodo.org/records/18498885/files/05_Protein_structure.pptx) | [Video](https://youtu.be/gE6qXwpBP_s) | [Video](https://www.youtube.com/watch?v=7GmPNVhJhw0) |
+| Función de proteínas | [Drive](https://drive.google.com/file/d/1TpPji-In5Ubbih4eUSljn70jiv07twtJ/view), [Zenodo](https://zenodo.org/records/18498885/files/06_Protein_function.pptx) | [Video](https://youtu.be/cZs8XtVYa5A) | [Video](https://youtu.be/Un6QaTM412A) |
+| Evolución de proteínas | [Drive](https://drive.google.com/file/d/1BfQdzv9ysn6_7CUZyVqsW5YGY0y21Mxb/view), [Zenodo](https://zenodo.org/records/18498885/files/07_Protein_evolution.pptx) | [Video](https://youtu.be/qaypRS8SX5M) | [Video](https://youtu.be/rkmWSR8BUms) |
+| AlphaFold | [Drive](https://drive.google.com/file/d/1i4QEvAMAoUPGVoHxlHa3zwubbm40dcZk/view), [Zenodo](https://zenodo.org/records/18498885/files/08_Alphafold.pptx) | [Video](https://youtu.be/_jDRr5BcTaY) | [Video](https://youtu.be/4K8SDxk85a0) |
+| Diseño de proteínas basado en IA | [Drive](https://drive.google.com/file/d/1EPLjI6JhoPQ9tO9VvIACS0m1ZJWw6zwz/view), [Zenodo](https://zenodo.org/records/18498885/files/09_Protein_design.pptx) | [Video](https://youtu.be/wKUYtAt87d4This) | [Video](https://youtu.be/PvMNlxZv_Bg) |
+| Datos y sesgos | [Drive](http://drive.google.com/file/d/1jpEwDBncJCRviG_DaWs2EpzCL_1BfB9t/view ), [Zenodo](https://zenodo.org/records/18498885/files/10_Data_and_biases.pptx) | [Video](https://youtu.be/SKpHaHgvCKE) | [Video](https://youtu.be/bEt7tZKvfiI) |
 
 
 Al liberar las diapositivas pretendo que tengas acceso a información para profundizar. Si eres docente y has adoptado este material para tus clases, por favor, házmelo saber. Me encantaría conocer cómo mejoraste el curso y saber que más personas han aprendido sobre ciencia de proteínas. 
@@ -359,6 +359,12 @@ Finalmente, te agradecería que compartieras este curso con colegas interesados,
 - [Instagram](https://www.instagram.com/miangoar/#)
 - [BlueSky](https://bsky.app/profile/miangoar.bsky.social)
 - [LinkedIn](https://www.linkedin.com/in/miguel-angel-gonzalez-arias-61b04b2ba/)
+
+Alternativamente, también puedes descargar, imprimir y pegar alguno de estos dos carteles para compartir el curso en algún tablón de anuncios de tu sede.
+<p align="center">
+  <img src="https://github.com/miangoar/AI-driven-protein-design/blob/main/img/01.png" width="400"/>
+  <img src="https://github.com/miangoar/AI-driven-protein-design/blob/main/img/02.png" width="400"/>
+</p>
 
 # Sobre mí
 
