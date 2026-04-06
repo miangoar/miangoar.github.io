@@ -45,7 +45,10 @@ Quiero que las personas aprendan a diseñar proteínas usando Inteligencia Artif
 
 
 # Organización de clases
+
 ![webinar](https://raw.githubusercontent.com/miangoar/AI-driven-protein-design/main/img/lectures_es.png)
+
+
 Las clases están organizadas de la 01 a la 10 para facilitar la comprensión de los temas. Por ejemplo, para revisar AlphaFold se requieren conceptos de biología estructural, deep learning y modelos de lenguaje. Las clases fueron originalmente grabadas en español y dobladas al inglés usando modelos de IA (i.e., [WhisperX](https://github.com/m-bain/whisperX), [Deep-Translator](https://github.com/nidhaloff/deep-translator) y [kokoro](https://github.com/hexgrad/kokoro)). Debido al doblaje automático en las clases en inglés, es posible encontrar segmentos cortos de silencio, por lo que recomiendo revisarlas a una velocidad de 1.2x a 1.5x.
 
 A continuación se describen brevemente las clases y sus temas:
@@ -361,8 +364,15 @@ Finalmente, te agradecería que compartieras este curso con colegas interesados,
 Alternativamente, también puedes descargar, imprimir y pegar alguno de estos dos carteles para compartir el curso en algún tablón de anuncios de tu sede.
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/miangoar/AI-driven-protein-design/main/img/01.png" width="400"/>
-  <img src="https://raw.githubusercontent.com/miangoar/AI-driven-protein-design/main/img/02.png" width="400"/>
+  <figure style="display:inline-block; text-align:center;">
+    <img src="https://raw.githubusercontent.com/miangoar/AI-driven-protein-design/main/img/01.png" width="350"/>
+    <figcaption>Cartel 1</figcaption>
+  </figure>
+
+  <figure style="display:inline-block; text-align:center;">
+    <img src="https://raw.githubusercontent.com/miangoar/AI-driven-protein-design/main/img/02.png" width="350"/>
+    <figcaption>Cartel 2</figcaption>
+  </figure>
 </p>
 
 # Sobre mí
