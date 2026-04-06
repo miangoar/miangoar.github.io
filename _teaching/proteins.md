@@ -10,7 +10,11 @@ location: "México"
 
 Hice este <a href="https://github.com/miangoar/AI-driven-protein-design">curso gratuito</a> de 10 clases para introducirte al diseño de proteínas. 
 
-![webinar](/images/teaching/roadmap.jpg)
+![webinar](https://github.com/miangoar/AI-driven-protein-design/blob/main/img/roadmap_es.png)
+
+
+Note: there is a version of this page in [English](https://miangoaren.github.io/teaching/proteins) /
+Nota: aquí hay una [versión en inglés](https://miangoaren.github.io/teaching/proteins) de esta página 
 
 # Contenido
 - [Descripción general](#descripción-general)
@@ -19,16 +23,13 @@ Hice este <a href="https://github.com/miangoar/AI-driven-protein-design">curso g
 - [Cómo apoyar este proyecto](#cómo-apoyar-este-proyecto)
 - [Sobre mí](#sobre-mí)
 
-Note: there is a version of this page in [English](https://miangoaren.github.io/teaching/proteins) /
-Nota: aquí hay una [versión en inglés](https://miangoaren.github.io/teaching/proteins) de esta página 
-
 # Descripción general
-Quiero que más personas aprendan a diseñar proteínas usando Inteligencia Artificial (IA). Sin embargo, he encontrado tres problemas:
-1. hay mucha información y no es claro por dónde empezar a aprender ni cuáles son los temas necesarios que abarcar
-2. no hay cursos integrales en línea y en Español sobre el tema
-3. los cursos relacionados con el tema suelen ser costosos para la mayoría de los estudiantes de Latinoamérica
+Quiero que las personas aprendan a diseñar proteínas usando Inteligencia Artificial (IA). Sin embargo, he encontrado tres problemas:
+1. hay mucha información, y no es claro qué aprender ni cómo empezar
+2. no hay cursos integrales y en línea sobre diseño de proteínas 
+3. los cursos relacionados son costosos para la mayoría de los estudiantes
 
-<p>Para atender estos problemas, diseñé este curso gratuito de 37 horas, distribuido en 10 clases, para introducirte al diseño de proteínas basado en IA. El curso cuenta con dos recursos principales:</p>
+<p>Para atender estos problemas, hicé este curso gratuito de 37 horas, distribuido en 10 clases, para introducirte al diseño de proteínas basado en IA. El curso cuenta con dos recursos principales:</p>
 <ol>
   <li><a href="https://www.youtube.com/@miangoar_bio">Las 10 clases en YouTube</a></li>
   <li><a href="https://github.com/miangoar/AI-driven-protein-design">Un repositorio en GitHub</a> con los siguientes recursos:
@@ -47,7 +48,9 @@ Quiero que más personas aprendan a diseñar proteínas usando Inteligencia Arti
 
 ![webinar](/images/teaching/lectures.png)
 
-Las clases están organizadas de la 01 a la 10 para facilitar la comprensión de los temas. Por ejemplo, para revisar AlphaFold se requieren conceptos de biología estructural y deep learning que son explorados a detalle en sus respectivas clases. A continuación se describen brevemente las clases y sus temas:
+Las clases están organizadas de la 01 a la 10 para facilitar la comprensión de los temas. Por ejemplo, para revisar AlphaFold se requieren conceptos de biología estructural, deep learning y modelos de lenguaje. Las clases fueron originalmente grabadas en español y dobladas al inglés usando modelos de IA (i.e., [WhisperX](https://github.com/m-bain/whisperX), [Deep-Translator](https://github.com/nidhaloff/deep-translator) y [kokoro](https://github.com/hexgrad/kokoro)). Debido al doblaje automático en las clases en inglés, es posible encontrar segmentos cortos de silencio, por lo que recomiendo revisarlas a una velocidad de 1.2x a 1.5x.
+
+A continuación se describen brevemente las clases y sus temas:
 
 <ol>
   <li><strong><a href="https://www.youtube.com/watch?v=uMkZzKbnoJI">Conceptos básicos de computación</a></strong>: cómo funcionan las CPU y GPU, así como el software esencial para el análisis de datos.
